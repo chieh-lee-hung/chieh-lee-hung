@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I miss thinking hard</div>
+                                <div class="title">Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation</div>
                                 <div class="date">4 Feb 2026</div>
                             </div>
                         </div>
@@ -29,8 +29,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering</div>
+                                <div class="title">FBI couldn't get into WaPo reporter's iPhone because Lockdown Mode enabled</div>
                                 <div class="date">4 Feb 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">A sane but bull case on Clawdbot / OpenClaw</div>
+                                <div class="date">3 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -40,15 +49,6 @@
                             <div class="infos">
                                 <div class="title">Data centers in space makes no sense</div>
                                 <div class="date">3 Feb 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Lessons learned shipping 500 units of my first hardware product</div>
-                                <div class="date">1 Feb 2026</div>
                             </div>
                         </div>
                     </section>
