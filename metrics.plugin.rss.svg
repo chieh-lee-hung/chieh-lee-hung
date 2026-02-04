@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Qwen3-Coder-Next</div>
-                                <div class="date">3 Feb 2026</div>
+                                <div class="title">Lessons Learned Shipping 500 Units of My First Hardware Product</div>
+                                <div class="date">1 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines</div>
+                                <div class="title">FlashAttention-T: Towards Tensorized Attention</div>
                                 <div class="date">3 Feb 2026</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Xcode 26.3 unlocks the power of agentic coding</div>
+                                <div class="title">Xcode 26.3 – Developers can leverage coding agents directly in Xcode</div>
                                 <div class="date">3 Feb 2026</div>
                             </div>
                         </div>
