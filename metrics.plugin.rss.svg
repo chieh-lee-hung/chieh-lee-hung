@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ooh.directory: a place to find good blogs that interest you</div>
+                                <div class="title">My smart sleep mask broadcasts users' brainwaves to an open MQTT broker</div>
                                 <div class="date">14 Feb 2026</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Zig – io_uring and Grand Central Dispatch std.Io implementations landed</div>
+                                <div class="title">Ooh.directory: a place to find good blogs that interest you</div>
                                 <div class="date">14 Feb 2026</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Golf game built last night with Claude Code, Svelte and ThreeJS</div>
+                                <div class="title">Zig – io_uring and Grand Central Dispatch std.Io implementations landed</div>
                                 <div class="date">14 Feb 2026</div>
                             </div>
                         </div>
