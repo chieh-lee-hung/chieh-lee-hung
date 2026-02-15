@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">News publishers limit Internet Archive access due to AI scraping concerns</div>
-                                <div class="date">14 Feb 2026</div>
+                                <div class="title">NewPipe: YouTube client without vertical videos and algorithmic feed</div>
+                                <div class="date">15 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">My smart sleep mask broadcasts users' brainwaves to an open MQTT broker</div>
+                                <div class="title">News publishers limit Internet Archive access due to AI scraping concerns</div>
                                 <div class="date">14 Feb 2026</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ooh.directory: a place to find good blogs that interest you</div>
-                                <div class="date">14 Feb 2026</div>
+                                <div class="title">I love the work of the ArchWiki maintainers</div>
+                                <div class="date">15 Feb 2026</div>
                             </div>
                         </div>
                     </section>
