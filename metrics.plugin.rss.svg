@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">"Made in EU" – Building a Startup on European Infrastructure</div>
+                                <div class="title">The path to ubiquitous AI (17k tokens/sec)</div>
                                 <div class="date">20 Feb 2026</div>
                             </div>
                         </div>
@@ -29,16 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Defer available in gcc and clang</div>
-                                <div class="date">16 Feb 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Consistency diffusion language models: Up to 14x faster, no quality loss</div>
+                                <div class="title">Minions – Stripe's Coding Agents Part 2</div>
                                 <div class="date">20 Feb 2026</div>
                             </div>
                         </div>
@@ -49,6 +40,15 @@
                             <div class="infos">
                                 <div class="title">Gemini 3.1 Pro</div>
                                 <div class="date">19 Feb 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Consistency diffusion language models: Up to 14x faster, no quality loss</div>
+                                <div class="date">20 Feb 2026</div>
                             </div>
                         </div>
                     </section>
