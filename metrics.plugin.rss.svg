@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Nobody Gets Promoted for Simplicity</div>
+                                <div class="title">RFC 9849. TLS Encrypted Client Hello</div>
                                 <div class="date">4 Mar 2026</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">TikTok will not introduce end-to-end encryption, saying it makes users less safe</div>
+                                <div class="title">Agentic Engineering Patterns</div>
                                 <div class="date">4 Mar 2026</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Graphics Programming Resources</div>
+                                <div class="title">Better JIT for Postgres</div>
                                 <div class="date">4 Mar 2026</div>
                             </div>
                         </div>
