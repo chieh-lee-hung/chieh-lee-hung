@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Three Pillars of JavaScript Bloat</div>
+                                <div class="title">The three pillars of JavaScript bloat</div>
                                 <div class="date">22 Mar 2026</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tinybox – Offline AI device 120B parameters</div>
-                                <div class="date">21 Mar 2026</div>
+                                <div class="title">My first patch to the Linux kernel</div>
+                                <div class="date">19 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Some things just take time</div>
-                                <div class="date">21 Mar 2026</div>
+                                <div class="title">Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence</div>
+                                <div class="date">22 Mar 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Professional video editing, right in the browser with WebGPU and WASM</div>
+                                <div class="title">Tinybox – A powerful computer for deep learning</div>
                                 <div class="date">21 Mar 2026</div>
                             </div>
                         </div>
