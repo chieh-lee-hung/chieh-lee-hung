@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Claude Opus 4.7 costs 20–30% more per session</div>
+                                <div class="title">A simplified model of Fil-C</div>
                                 <div class="date">17 Apr 2026</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Smol machines – subsecond coldstart, portable virtual machines</div>
+                                <div class="title">Measuring Claude 4.7's tokenizer costs</div>
                                 <div class="date">17 Apr 2026</div>
                             </div>
                         </div>
