@@ -5,7 +5,7 @@
 
   # Hi there, I'm Chieh-Lee Hung 👋 🇹🇼🇳🇱
 
-  💼 **Software Developer -> Machine Learning Engineer**  
+  💼 **Machine Learning Engineer**  
   I’m currently an MSc Computer Science student at TU/e. Before that, I spent a few years building production software, which gave me a strong appreciation for clean design, system reliability, and performance. These days, I focus on the engineering side of ML - model serving, retrieval pipelines, and turning research prototypes into systems that actually run in production. I enjoy working on problems where ML meets real-world constraints.
 
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
