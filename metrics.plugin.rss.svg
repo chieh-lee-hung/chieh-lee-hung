@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What I'm Hearing About Cognitive Debt (So Far)</div>
+                                <div class="title">Train Your Own LLM from Scratch</div>
                                 <div class="date">5 May 2026</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How OpenAI delivers low-latency voice AI at scale</div>
-                                <div class="date">4 May 2026</div>
+                                <div class="title">About 10% of AMC movie showings sell zero tickets. This site finds them</div>
+                                <div class="date">5 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pulitzer Prize Winner in International Reporting</div>
+                                <div class="title">CVE-2026-31431: Copy Fail vs. rootless containers</div>
                                 <div class="date">5 May 2026</div>
                             </div>
                         </div>
