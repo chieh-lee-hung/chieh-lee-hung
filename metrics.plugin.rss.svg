@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ian's Secure Shoelace Knot</div>
+                                <div class="title">The desperation of NYTimes</div>
                                 <div class="date">4 Jun 2026</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">They’re made out of weights</div>
-                                <div class="date">3 Jun 2026</div>
+                                <div class="title">Retro-Tech Parenting</div>
+                                <div class="date">4 Jun 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">KVarN: Native vLLM KV-cache quantization back end by Huawei</div>
+                                <div class="title">KVarN: Native vLLM backend for KV-cache quantization by Huawei</div>
                                 <div class="date">4 Jun 2026</div>
                             </div>
                         </div>
