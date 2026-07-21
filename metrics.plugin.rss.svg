@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Jane Street: Incremental</div>
+                                <div class="title">Incremental – A library for incremental computations</div>
                                 <div class="date">21 Jul 2026</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste</div>
-                                <div class="date">21 Jul 2026</div>
+                                <div class="title">Kimi Work</div>
+                                <div class="date">20 Jul 2026</div>
                             </div>
                         </div>
                     </section>
