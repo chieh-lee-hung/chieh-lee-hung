@@ -29,8 +29,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Mcptoon – Token-efficient MCP CLI client</div>
+                                <div class="title">France to ban unsolicited telemarketing calls</div>
                                 <div class="date">11 Aug 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">As AI eats the web, the internet’s collective memory is disappearing</div>
+                                <div class="date">10 Aug 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -40,15 +49,6 @@
                             <div class="infos">
                                 <div class="title">Chicken Scheme 6.0</div>
                                 <div class="date">11 Aug 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">LFM2.5 2.6B model competitive with 4x larger models</div>
-                                <div class="date">4 Aug 2026</div>
                             </div>
                         </div>
                     </section>
