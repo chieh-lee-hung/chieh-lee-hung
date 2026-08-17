@@ -20,16 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Qwen 3.8 27B is excellent, but it defaults to overthinking things</div>
-                                <div class="date">16 Aug 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">On A.I. regulation and messaging</div>
+                                <div class="title">Apple's App Tracking Transparency treated its own apps better than rivals</div>
                                 <div class="date">17 Aug 2026</div>
                             </div>
                         </div>
@@ -38,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Anthropic's 'watermark' text adulteration in Claude is a perversion of writing</div>
-                                <div class="date">16 Aug 2026</div>
+                                <div class="title">A Preview of DuckDB v2.0</div>
+                                <div class="date">17 Aug 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A third world engineer responds to “RISC-V: They should have known better”</div>
-                                <div class="date">16 Aug 2026</div>
+                                <div class="title">AI-Generated GitHub Copilot "Autofix" Allowed Compromise of Snowflake's Jira</div>
+                                <div class="date">17 Aug 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">GPT 5.6 Sol is the best "vision" model OpenAI ever released</div>
+                                <div class="date">17 Aug 2026</div>
                             </div>
                         </div>
                     </section>
