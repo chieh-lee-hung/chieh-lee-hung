@@ -6,7 +6,7 @@
   # Hi there, I'm Jerry 👋 🇹🇼🇳🇱
 
   💼 **Machine Learning Engineer**  
-  I’m currently an MSc Computer Science student at TU/e. Before that, I spent a few years building production software. These days, I focus on the engineering side of ML including model serving, retrieval pipelines, and turning research prototypes into systems that actually run in production. I enjoy working on problems where ML meets real-world constraints.
+  I’m currently an MSc Computer Science student at TU/e. Before that, I spent a few years building production software. These days, I focus on the engineering side of ML including model serving, retrieval pipelines, and turning research prototypes into systems that actually run in production.
 
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
     <div style="width: 50%; text-align: left; font-weight: bold;">
