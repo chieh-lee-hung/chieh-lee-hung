@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Learning to live with Waymos</div>
+                                <div class="title">The Future of CSS</div>
                                 <div class="date">21 Oct 2026</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Feds suspect ransom negotiator ran ShinyHunters extortion site</div>
-                                <div class="date">20 Oct 2026</div>
+                                <div class="title">Muse exposes users' personal and business secrets when they share conversations</div>
+                                <div class="date">21 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Good type against all odds</div>
-                                <div class="date">21 Oct 2026</div>
+                                <div class="title">Upcoming critical PHP security release (CVE-2026-109618 / -109619)</div>
+                                <div class="date">20 Oct 2026</div>
                             </div>
                         </div>
                     </section>
