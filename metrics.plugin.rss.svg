@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">PHP 8.2.35</div>
+                                <div class="title">Railway Security Disclosure</div>
                                 <div class="date">21 Oct 2026</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor</div>
+                                <div class="title">GitLab Critical Patch Release</div>
                                 <div class="date">21 Oct 2026</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The compiler was supposed to end programming too</div>
+                                <div class="title">Google's Rust Style Guide</div>
                                 <div class="date">21 Oct 2026</div>
                             </div>
                         </div>
