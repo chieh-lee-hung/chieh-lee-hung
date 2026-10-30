@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">We ran AI agent swarms in Minecraft and Mindustry</div>
-                                <div class="date">29 Oct 2026</div>
+                                <div class="title">Cuis: The Modern Smalltalk-80</div>
+                                <div class="date">27 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A tiny world model running games on a Raspberry Pi Pico 2 W</div>
-                                <div class="date">29 Oct 2026</div>
+                                <div class="title">Astroterm: A Planetarium for Your Terminal</div>
+                                <div class="date">28 Oct 2026</div>
                             </div>
                         </div>
                     </section>
