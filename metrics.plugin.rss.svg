@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)</div>
+                                <div class="date">3 Nov 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Astra can read and write weights to improve Qwen</div>
                                 <div class="date">2 Nov 2026</div>
                             </div>
@@ -29,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Subvocal – Talk to your computer without making noise</div>
-                                <div class="date">2 Nov 2026</div>
+                                <div class="title">Show HN: Hacker Times, a New York Times-inspired version of Hacker News</div>
+                                <div class="date">3 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,17 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">US boy names that became girl names and vice versa</div>
-                                <div class="date">2 Nov 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app</div>
-                                <div class="date">2 Nov 2026</div>
+                                <div class="title">DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs</div>
+                                <div class="date">3 Nov 2026</div>
                             </div>
                         </div>
                     </section>
