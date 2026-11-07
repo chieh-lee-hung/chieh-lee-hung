@@ -20,8 +20,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life</div>
+                                <div class="title">Libghostty 1.0</div>
                                 <div class="date">6 Nov 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">A barbarian tribe's mythic origin story is true, ancient DNA reveals</div>
+                                <div class="date">7 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,17 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ChatGPT silently passes data between connectors and the bounty wants an ID card</div>
-                                <div class="date">6 Nov 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Tesla to wind down Cybertruck production</div>
-                                <div class="date">6 Nov 2026</div>
+                                <div class="title">The Components of Agent Memory</div>
+                                <div class="date">7 Nov 2026</div>
                             </div>
                         </div>
                     </section>
