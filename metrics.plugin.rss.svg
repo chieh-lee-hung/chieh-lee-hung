@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">NVIDIA Announces CEO Transition</div>
+                                <div class="title">Jensen Huang resigns</div>
                                 <div class="date">12 Nov 2026</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why Writing Correct Software Is Hard</div>
+                                <div class="title">Ask HN: Microsoft/Azure Outage?</div>
                                 <div class="date">12 Nov 2026</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Jensen Huang resigns as Nvidia CEO immediately</div>
+                                <div class="title">Rust 1.100</div>
                                 <div class="date">12 Nov 2026</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Jane Street: Socratic Tutor</div>
-                                <div class="date">10 Nov 2026</div>
+                                <div class="title">Gemini 4 Hydrogen and Orchestrator</div>
+                                <div class="date">12 Nov 2026</div>
                             </div>
                         </div>
                     </section>
