@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Codeberg.org Not Reachable</div>
+                                <div class="date">18 Nov 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Java4Shell: RCE in OpenJDK when processing Base64</div>
                                 <div class="date">17 Nov 2026</div>
                             </div>
@@ -29,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GPT‑6.2 Astra and Sol</div>
-                                <div class="date">17 Nov 2026</div>
+                                <div class="title">Google's AI answers reducing search traffic by 40%</div>
+                                <div class="date">18 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,17 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Quad9's withdrawal from France: A canary in the coal mine</div>
-                                <div class="date">17 Nov 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Archive Team is archiving the Apple Support Community (closes November 20, 2026)</div>
-                                <div class="date">17 Nov 2026</div>
+                                <div class="title">ID.me terms required for IRS sign-in</div>
+                                <div class="date">18 Nov 2026</div>
                             </div>
                         </div>
                     </section>
