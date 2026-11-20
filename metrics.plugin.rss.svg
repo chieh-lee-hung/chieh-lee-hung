@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Anthropic’s Nasdaq debut</div>
-                                <div class="date">19 Nov 2026</div>
+                                <div class="title">Frostbite: A new CPU architecture discovered, designed and verified by AI</div>
+                                <div class="date">20 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pancreatic cancer halted by virus injection in three patients</div>
-                                <div class="date">19 Nov 2026</div>
+                                <div class="title">OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)</div>
+                                <div class="date">20 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Gemini 4 Neon is the new #1 on the Models Engineering Index</div>
-                                <div class="date">19 Nov 2026</div>
+                                <div class="title">The Strongest Sokoban Solver</div>
+                                <div class="date">16 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Synology Security Advisory</div>
-                                <div class="date">19 Nov 2026</div>
+                                <div class="title">FFmpeg 9.1 'Gauss'</div>
+                                <div class="date">20 Nov 2026</div>
                             </div>
                         </div>
                     </section>
